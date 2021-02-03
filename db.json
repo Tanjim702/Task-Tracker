@@ -1,0 +1,77 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "name": "About",
+      "position": 2,
+      "link": "/about",
+      "target": ""
+    },
+    {
+      "id": 2,
+      "name": "Home",
+      "position": 1,
+      "link": "/",
+      "target": ""
+    },
+    {
+      "id": 3,
+      "name": "Github",
+      "position": 3,
+      "link": "https://github.com/Tanjim702",
+      "target": "_blank"
+    },
+    {
+      "name": "Contact",
+      "position": "4",
+      "link": "/contact",
+      "id": 4
+    },
+    {
+      "name": "See More",
+      "position": "5",
+      "link": "/more",
+      "id": 5
+    }
+  ],
+  "incomes": [
+    {
+      "id": 1,
+      "amount": 1000,
+      "source": "Laptop",
+      "date": "18 Jan 2021"
+    },
+    {
+      "id": 2,
+      "amount": 2000,
+      "source": "School",
+      "date": "21 Feb 2021"
+    },
+    {
+      "source": "Brain",
+      "amount": "1000",
+      "date": "25 Jan 2021",
+      "id": 3
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 10000,
+      "source": "Friends",
+      "date": "Today"
+    },
+    {
+      "id": 2,
+      "amount": 12000,
+      "source": "Books",
+      "date": "Today"
+    },
+    {
+      "source": "More Books",
+      "amount": "1000",
+      "date": "26 Jan 2021",
+      "id": 3
+    }
+  ]
+}
